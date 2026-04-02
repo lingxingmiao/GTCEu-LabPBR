@@ -43,8 +43,8 @@ def 构建(path: str):
     return 缓存路径
 
 if __name__ == '__main__':
-    输出路径 = 构建(r"./格雷科技PBR未构建")
-    目标路径对象 = Path(r"C:\Users\FengMang\AppData\Roaming\PrismLauncher\instances\Cleanroom-MMC-instance-0.3.0-alpha\minecraft\resourcepacks\GregTech PBR测试2")
+    输出路径 = 构建(r"./")
+    目标路径对象 = Path(r"./构建文件夹")
     """if 目标路径对象.exists():
         shutil.rmtree(目标路径对象)"""
     shutil.copytree(输出路径, 目标路径对象, dirs_exist_ok=True)
