@@ -1,7 +1,7 @@
 # GTCEu-LabPBR
 这是 [格雷科技社区版：非官方版](https://www.mcmod.cn/class/5343.html) 的 PBR 材质包。<br/>
 此材质包需要安装支持LabPBR协议的光影使用。<br/>
-总共483个视差纹理；总共3896个纹理。
+总共483个视差纹理；总共3896个纹理。<br/>
 您可以在 [Releases](https://github.com/lingxingmiao/GTCEu-LabPBR/releases) 直接下载到可用版本。
 ## 构建
 1. 克隆仓库 https://github.com/lingxingmiao/GTCEu-LabPBR.git
