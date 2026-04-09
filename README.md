@@ -14,6 +14,10 @@ This is a PBR resource pack for [GregTech CE: Unofficial](https://modrinth.com/m
 This resource pack requires a shader that supports the LabPBR protocol.<br/>
 If you'd like to experience the 3D/depth effect without shaders, please download the file with the "No_Shaders" suffix.<br/>
 Total of 483 parallax textures; 3896 textures in total.
+## 构建
+1. 克隆仓库 https://github.com/lingxingmiao/GTCEu-LabPBR.git
+2. 下载构建依赖库 [Mpbr.py](https://github.com/lingxingmiao/Tools/blob/main/Minecraft%20%E6%B3%95%E7%BA%BF%E7%BA%B9%E7%90%86%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/ver2.0/Mpbr%20ver2.2.py) 并手动重命名 `Mpbr.py`
+3. 运行 [构建资源包.py](https://github.com/lingxingmiao/GTCEu-LabPBR/blob/main/%E6%9E%84%E5%BB%BA%E8%B5%84%E6%BA%90%E5%8C%85.py)
 # 画廊 Gallery ギャラリー
 SEUS PTGI GFME Shaders
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2d0c7f5-85c6-4600-b22e-914099f63720" />
